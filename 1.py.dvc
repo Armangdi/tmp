@@ -1,0 +1,5 @@
+outs:
+- md5: 9cadb4ce19fa404b94f78bf074cecf1b
+  size: 353
+  hash: md5
+  path: 1.py
